@@ -1,0 +1,11 @@
+.lbl{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.lbl:hover{    
+    padding: 15px 40px;
+    margin: 15px 40px;
+}
